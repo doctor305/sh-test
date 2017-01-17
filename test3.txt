@@ -1,0 +1,16 @@
+     1	daemon:x:1:
+     2	disk:x:6:
+     3	lp:x:7:
+     4	uucp:x:10:
+     5	man:x:12:
+     6	tape:x:26:
+     7	audio:x:29:pulse
+     8	list:x:38:
+     9	irc:x:39:
+    10	gnats:x:41:
+    11	shadow:x:42:
+    12	plugdev:x:46:
+    13	staff:x:50:
+    14	games:x:60:
+    15	geoclue:x:126:
+    16	pulse:x:127:
